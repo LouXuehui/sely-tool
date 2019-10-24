@@ -1,8 +1,8 @@
 {
   "name": "sely-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "工具",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "umi dev",
     "build": "umi build",
@@ -37,5 +37,20 @@
   },
   "engines": {
     "node": ">=8.0.0"
-  }
+  },
+  "main": ".umirc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouXuehui/sely-tool.git"
+  },
+  "keywords": [
+    "react",
+    "tool"
+  ],
+  "author": "sely",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LouXuehui/sely-tool/issues"
+  },
+  "homepage": "https://github.com/LouXuehui/sely-tool#readme"
 }
