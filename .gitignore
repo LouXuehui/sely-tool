@@ -18,7 +18,4 @@
 .umi-production
 
 #idea
-.idea
-
-#mock
-/mock
+/.idea
