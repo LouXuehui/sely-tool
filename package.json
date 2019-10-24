@@ -1,4 +1,7 @@
 {
+  "name": "sely-tool",
+  "version": "1.0.0",
+  "description": "工具",
   "private": true,
   "scripts": {
     "start": "umi dev",
