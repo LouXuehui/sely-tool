@@ -1,12 +1,19 @@
-import styles from './index.css';
-
-function BasicLayout(props) {
-  return (
-    <div className={styles.normal}>
-      <h1 className={styles.title}>Yay! Welcome to umi!</h1>
-      {props.children}
-    </div>
-  );
-}
-
-export default BasicLayout;
+// import React, {Component} from 'react'
+// import styles from './index.less'
+//
+// export default class Index extends Component {
+//   constructor(props) {
+//     super(props)
+//     this.state = {}
+//   }
+//
+//   render() {
+//     // const {children} = this.props
+//     return (
+//       <div className={styles.normal}>
+//         {/*<div>1122234444</div>*/}
+//         {this.props.children}
+//       </div>
+//     )
+//   }
+// }
