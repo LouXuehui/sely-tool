@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f65cf8e1-5c1f-4315-b774-bc9ad8b041f5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="f65cf8e1-5c1f-4315-b774-bc9ad8b041f5" name="Default" comment="修改传出组件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.umirc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.umirc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>welcome</find>
-      <find>dva</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +36,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myApp" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -116,26 +109,39 @@
       <updated>1571881015242</updated>
       <workItem from="1571881016881" duration="12029000" />
       <workItem from="1582531681356" duration="2774000" />
-      <workItem from="1582707974216" duration="765000" />
+      <workItem from="1582707974216" duration="1843000" />
     </task>
+    <task id="LOCAL-00001" summary="修改传出组件">
+      <created>1582708989308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582708989308</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改" />
+    <MESSAGE value="修改传出组件" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改传出组件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="313" y="123" key="#ESLint" timestamp="1582531865221">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="313" y="123" key="#ESLint/0.0.1440.920@0.0.1440.920" timestamp="1582531865221" />
-    <state x="375" y="59" key="CommitChangelistDialog2" timestamp="1582708885927">
+    <state x="577" y="115" key="CommitChangelistDialog2" timestamp="1582708982215">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="375" y="59" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1582708885927" />
-    <state x="501" y="219" key="FileChooserDialogImpl" timestamp="1582535652179">
+    <state x="577" y="115" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1582708982215" />
+    <state x="501" y="219" key="FileChooserDialogImpl" timestamp="1582709183403">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="501" y="219" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1582535652179" />
+    <state x="501" y="219" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1582709183403" />
     <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1582535452874">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -152,6 +158,14 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1582535452873" />
+    <state x="313" y="197" key="Vcs.Push.Dialog.v2" timestamp="1582709007551">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="197" key="Vcs.Push.Dialog.v2/0.0.1440.920@0.0.1440.920" timestamp="1582709007551" />
+    <state x="412" y="215" width="617" height="490" key="find.popup" timestamp="1582709568832">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="412" y="215" width="617" height="490" key="find.popup/0.0.1440.920@0.0.1440.920" timestamp="1582709568832" />
     <state x="431" y="263" key="git4idea.merge.GitPullDialog" timestamp="1582708900582">
       <screen x="0" y="0" width="1440" height="920" />
     </state>

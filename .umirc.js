@@ -4,11 +4,12 @@ export default {
   routes: [
     {
       path: '/',
-      component: '../pages/test/index',
-      // routes: [
-      //   {path: '/', component: '../pages/index'},
-      //   {path: '/test', component: '../pages/test/index'}
-      // ]
+      component: '../pages/index',
+      routes: [
+        // {path: '/', component: '../pages/index'},
+        {path: '/test', component: '../pages/test/index'},
+        {path: '/circle', component: '../pages/circle/index'}
+      ]
     }
   ],
   theme: {
