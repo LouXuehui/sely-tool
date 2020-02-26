@@ -1,3 +1,4 @@
-import Circle from './circle/index'
+import Circle from './circle'
+import Text from './test'
 
-export {Circle}
+export {Circle, Text}

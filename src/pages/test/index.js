@@ -10,7 +10,7 @@ export default class Index extends Component {
   render() {
     const {} = this.props
     return (
-      <Circle/>
+      <div>2222</div>
     )
   }
 }
